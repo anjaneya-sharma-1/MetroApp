@@ -1,0 +1,251 @@
+serial_no,station_name,line,connected_stations
+1,"Shaheed Sthal","Line 1",2
+2,Hindon,"Line 1",1-3
+3,Arthala,"Line 1",2-4
+4,"Mohan Nagar","Line 1",3-5
+5,"Shyam Park","Line 1",4-6
+6,"Major Mohit Sharma","Line 1",5-7
+7,"Raj Bagh","Line 1",6-8
+8,"Shaheed Nagar","Line 1",7-9
+9,"Dilshad Garden","Line 1",8-10
+10,Jhilmil,"Line 1",9-11
+11,"Mansarovar Park","Line 1",10-12
+12,Shahdara,"Line 1",11-13
+13,Welcome,"Line 1",12-14
+14,Seelampur,"Line 1",13-15
+15,"Shastri Park","Line 1",14-16
+16,"Kashmere Gate","Line 1",15-17
+17,"Tis Hazari","Line 1",16-18
+18,"Pul Bangash","Line 1",17-19
+19,"Pratap Nagar","Line 1",18-20
+20,"Shastri Naga","Line 1",19-21
+21,Inderlok,"Line 1",20-22
+22,"Kanhiya Nagar","Line 1",21-23
+23,"Keshav Puram","Line 1",22-24
+24,"Netaji Subhash Place","Line 1",23-25
+25,"Kohat Enclave","Line 1",24-26
+26,Pitampura,"Line 1",25-27
+27,"Rohini East","Line 1",26-28
+28,"Rohini West","Line 1",27-29
+29,Rithala,"Line 1",28
+30,"Samaypur Badli","Line 2",31
+31,"Rohini Sector 18, 19","Line 2",30-32
+32,"Haiderpur Badli Mor","Line 2",31-33
+33,Jahangirpuri,"Line 2",32-34
+34,"Adarsh Nagar","Line 2",33-35
+35,Azadpur,"Line 2",34-36
+36,"Model Town","Line 2",35-37
+37,"GTB Nagar","Line 2",36-38
+38,"Vishwa Vidyalaya","Line 2",37-39
+39,"Vidhan Sabha","Line 2",38-40
+40,"Civil Lines","Line 2",39-41
+41,"Kashmere Gate","Line 2",40-42
+42,"Chandni Chowk","Line 2",41-43
+43,"Chawri Bazar","Line 2",42-44
+44,"New Delhi","Line 2",43-45
+45,"Rajiv Chowk","Line 2",44-46
+46,"Patel Chowk","Line 2",45-47
+47,"Central Secretariat","Line 2",46-48
+48,"Udyog Bhawan","Line 2",47-49
+49,"Lok Kalyan Marg","Line 2",48-50
+50,"Jor Bagh","Line 2",49-51
+51,INA,"Line 2",50-52
+52,AIIMS,"Line 2",51-53
+53,"Green Park","Line 2",52-54
+54,"Hauz Khas","Line 2",53-55
+55,"Malviya Nagar","Line 2",54-56
+56,Saket,"Line 2",55-57
+57,"Qutub Minar","Line 2",56-58
+58,Chhatarpur,"Line 2",57-59
+59,Sultanpur,"Line 2",58-60
+60,Ghitorni,"Line 2",59-61
+61,"Arjan Garh","Line 2",60-62
+62,"Guru Dronacharya","Line 2",61-63
+63,Sikandarpur,"Line 2",62-64
+64,"MG Road","Line 2",63-65
+65,"IFFCO Chowk","Line 2",64-66
+66,"HUDA City Centre","Line 2",65
+67,"Noida Electronic City","Line 3",68
+68,"Noida Sector 62","Line 3",67-69
+69,"Noida Sector 59","Line 3",68-70
+70,"Noida Sector 61","Line 3",69-71
+71,"Noida Sector 52","Line 3",70-72
+72,"Noida Sector 34","Line 3",71-73
+73,"Noida City Centre","Line 3",72-74
+74,"Noida Golf Course","Line 3",73-75
+75,"Botanical Garden","Line 3",74-76
+76,"Noida Sector 18","Line 3",75-77
+77,"Noida Sector 16","Line 3",76-78
+78,"Noida Sector 15","Line 3",77-79
+79,"New Ashok Nagar","Line 3",78-80
+80,"Mayur Vihar Extension","Line 3",79-81
+81,"Mayur Vihar-I","Line 3",80-82
+82,Akshardham,"Line 3",81-83
+83,"Yamuna Bank","Line 3",82-84
+84,Indraprastha,"Line 3",83-85
+85,"Supreme Court","Line 3",84-86
+86,"Mandi House","Line 3",85-87
+87,"Barakhamba Road","Line 3",86-88
+88,"Rajiv Chowk","Line 3",87-89
+89,"R K Ashram Marg","Line 3",88-90
+90,Jhandewalan,"Line 3",89-91
+91,"Karol Bagh","Line 3",90-92
+92,"Rajendra Place","Line 3",91-93
+93,"Patel Nagar","Line 3",92-94
+94,Shadipur,"Line 3",93-95
+95,"Kirti Nagar","Line 3",94-96
+96,"Moti Nagar","Line 3",95-97
+97,"Ramesh Nagar","Line 3",96-98
+98,"Rajouri Garden","Line 3",97-99
+99,"Tagore Garden","Line 3",98-100
+100,"Subhash Nagar","Line 3",99-101
+101,"Janakpuri East","Line 3",100-102
+102,"Janakpuri West","Line 3",101-103
+103,"Uttam Nagar East","Line 3",102-104
+104,"Uttam Nagar West","Line 3",103-105
+105,Nawada,"Line 3",104-106
+106,"Dwarka Mor","Line 3",105-107
+107,Dwarka,"Line 3",106-108
+108,"Dwarka Sector 14","Line 3",107-109
+109,"Dwarka Sector 13","Line 3",108-110
+110,"Dwarka Sector 12","Line 3",109-111
+111,"Dwarka Sector 11","Line 3",110-112
+112,"Dwarka Sector 10","Line 3",111-113
+113,"Dwarka Sector 9","Line 3",112-114
+114,"Dwarka Sector 8","Line 3",113-115
+115,"Dwarka Sector 21","Line 3",114
+116,"Yamuna Bank","Line 4",117
+117,"Laxmi Nagar","Line 4",116-118
+118,"Nirman Vihar","Line 4",117-119
+119,"Preet Vihar","Line 4",118-120
+120,Karkardooma,"Line 4",119-121
+121,"Anand Vihar ISBT","Line 4",120-122
+122,Vaishali,"Line 4",121
+123,Inderlok,"Line 5",124
+124,"Ashok Park Main","Line 5",123-125
+125,"Punjabi Bagh","Line 5",124-251
+126,"Shivaji Park","Line 5",251-127
+127,Madipur,"Line 5",126-128
+128,"Paschim Vihar East","Line 5",127-129
+129,"Paschim Vihar West","Line 5",128-130
+130,Peeragarhi,"Line 5",129-131
+131,"Udyog Nagar","Line 5",130-132
+132,"Surajmal Stadium","Line 5",131-133
+133,Nangloi,"Line 5",132-134
+134,"Nangloi Railway Station","Line 5",133-135
+135,"Rajdhani Park","Line 5",134-136
+136,Mundka,"Line 5",135-137
+137,"Mundka Industrial Area (MIA)","Line 5",136-138
+138,"Ghevra Metro station","Line 5",137-139
+139,"Tikri Kalan","Line 5",138-140
+140,"Tikri Border","Line 5",139-141
+141,"Pandit Shree Ram Sharma","Line 5",140-142
+142,"Bahadurgarh City","Line 5",141-143
+143,"Brigadier Hoshiyar Singh","Line 5",142
+144,"Kashmere Gate","Line 6",145
+145,"Lal Qila","Line 6",144-146
+146,"Jama Masjid","Line 6",145-147
+147,"Delhi Gate","Line 6",146-148
+148,ITO,"Line 6",147-149
+149,"Mandi House","Line 6",148-150
+150,Janpath,"Line 6",149-151
+151,"Central Secretariat","Line 6",150-152
+152,"Khan Market","Line 6",151-153
+153,"Jawaharlal Nehru Stadium","Line 6",152-154
+154,Jangpura,"Line 6",153-155
+155,"Lajpat Nagar","Line 6",154-156
+156,Moolchand,"Line 6",155-157
+157,"Kailash Colony","Line 6",156-158
+158,"Nehru Place","Line 6",157-159
+159,"Kalkaji Mandir","Line 6",158-160
+160,Govindpuri,"Line 6",159-161
+161,"Harkesh Nagar","Line 6",160-162
+162,"Jasola Apollo","Line 6",161-163
+163,"Sarita Vihar","Line 6",162-164
+164,"Mohan Estate","Line 6",163-165
+165,Tughlakabad,"Line 6",164-166
+166,Badarpur,"Line 6",165-167
+167,Sarai,"Line 6",166-168
+168,"NHPC Chowk","Line 6",167-169
+169,"Mewla Maharajpur","Line 6",168-170
+170,"Sector 28","Line 6",169-171
+171,"Badkhal Mor","Line 6",170-172
+172,"Faridabad Old","Line 6",171-173
+173,"Neelam Chowk Ajronda","Line 6",172-174
+174,"Bata Chowk","Line 6",173-175
+175,"Escorts Mujesar","Line 6",174-176
+176,"Sant Surdas (Sihi)","Line 6",175-177
+177,"Balabhgarh (Raja Nahar Singh)","Line 6",176
+178,"New Delhi","Line 7",179
+179,"Shivaji Stadium","Line 7",178-180
+180,"Dhaula Kuan","Line 7",179-181
+181,"Delhi Aerocity","Line 7",180-182
+182,"Airport (T-3)","Line 7",181-183
+183,"Dwarka Sector 21","Line 7",182
+185,"Majilis Park","Pink Line",186
+186,Azadpur,"Pink Line",185-187
+187,"Shalimar Bagh","Pink Line",186-188
+188,"Netaji Subhash Place","Pink Line",187-189
+189,Shakurpur,"Pink Line",188-190
+190,"Punjabi Bagh West","Pink Line",189-191
+191,ESI-Basaidarapur,"Pink Line",190-192
+192,"Rajouri Garden","Pink Line",191-193
+193,Mayapuri,"Pink Line",192-194
+194,"Naraina Vihar","Pink Line",193-195
+195,"Delhi Cantonment","Pink Line",194-196
+196,"Durgabai Deshmukh South Campus","Pink Line",195-197
+197,"Sir Vishweshwaraiah Moti Bagh","Pink Line",196-198
+198,"Bhikaji Cama Place","Pink Line",197-199
+199,"Sarojini Nagar","Pink Line",198-200
+200,INA,"Pink Line",199-201
+201,"South Extension","Pink Line",200-202
+202,"Lajpat Nagar","Pink Line",201-203
+203,Vinobapuri,"Pink Line",202-204
+204,Ashram,"Pink Line",203-205
+205,"Hazrat Nizamuddin","Pink Line",204-206
+206,"Mayur Vihar-I","Pink Line",205-207
+207,"Mayur Vihar Pocket 1","Pink Line",206-208
+208,"Trilokpuri Sanjay Lake","Pink Line",207-209
+209,"East Vinod Nagar-Mayur Vihar-2","Pink Line",208-210
+210,"Mandawali West Vinod Nagar","Pink Line",209-211
+211,"IP Extension","Pink Line",210-212
+212,"Anand Vihar","Pink Line",211-213
+213,Karkardooma,"Pink Line",212-214
+214,"Krishna Nagar","Pink Line",213-215
+215,"East Azad Nagar","Pink Line",214-216
+216,Welcome,"Pink Line",215-217
+217,Jafrabad,"Pink Line",216-218
+218,Maujpur,"Pink Line",217-219
+219,"Gokul Puri","Pink Line",218-220
+220,"Johri Enclave","Pink Line",219-221
+221,"Shiv Vihar","Pink Line",220
+222,"Janakpuri West","Magenta Line",223
+223,"Dabri Mor","Magenta Line",222-224
+224,Dashrathpuri,"Magenta Line",223-225
+225,Palam,"Magenta Line",224-226
+226,"Sadar Bazaar Cantonment","Magenta Line",225-227
+227,"Terminal 1 - IGI Airport","Magenta Line",226-228
+228,"Shankar Vihar","Magenta Line",227-229
+229,"Vasant Vihar","Magenta Line",228-230
+230,Munirka,"Magenta Line",229-231
+231,"R.K Puram","Magenta Line",230-232
+232,"IIT Delhi","Magenta Line",231-233
+233,"Hauz Khas","Magenta Line",232-234
+234,"Panchsheel Park","Magenta Line",233-235
+235,"Chirag Delhi","Magenta Line",234-236
+236,"Greater Kailash","Magenta Line",235-237
+237,"Nehru Enclave","Magenta Line",236-238
+238,"Kalkaji Mandir","Magenta Line",237-239
+239,Govindpuri,"Magenta Line",238-240
+240,"Okhla NSIC","Magenta Line",239-241
+241,"Sukhdev Vihar","Magenta Line",240-242
+242,"Jamia Millia Islamia","Magenta Line",241-243
+243,"Okhla Vihar","Magenta Line",242-244
+244,"Jasola Vihar Shaheen Bagh","Magenta Line",243-245
+245,"Kalindi Kunj","Magenta Line",244-246
+246,"Okhla Bird Sanctuary","Magenta Line",245-247
+247,"Botanical Garden","Magenta Line",246
+248,"Ashok Park Main","Line 5 Branch",249
+249,"Satguru Ram Singh Marg","Line 5 Branch",248-250
+250,"Kirti Nagar","Line 5 Branch",249
+251,"Punjabi Bagh West","Line 5",125-126

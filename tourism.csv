@@ -1,0 +1,31 @@
+Name,ClosestStation,LineOfClosestStation,DistanceFromClosestStation
+"Agrasen Ki Baoli","Barakhamba Road",Blue,0.65
+"Akshardham Temple",Akshardham,Blue,0.3
+"Azad Hind Gram","Tikri Kalan",Green,0.4
+"Birla Mandir","Ramakrishna Ashram Marg",Blue,1.5
+"Chattarpur Mandir",Chhatarpur,Yellow,0.9
+"Craft Museum","Supreme Court",Blue,1.5
+"Deer Park","Hauz Khas",Magenta-Yellow,2
+"Garden Of Five Senses",Saket,Yellow,1.2
+"Gurudwara Bangla Sahib","Shivaji Stadium","Airport Express",0.28
+"Hauz Khas Village","Hauz Khas",Magenta-Yellow,2
+"Humayun's Tomb",Jangpura,Violet,0.7
+"India Gate","Central Secretariat",Yellow-Violet,0.9
+"Iskcon Temple","Nehru Place",Violet,1
+"Jama Masjid","Jama Masjid",Violet,0.29
+"Jantar Mantar","Patel Chowk",Yellow,0.55
+"Kalkaji Mandir","Kalkaji Mandir",Megenta-Violet,0.1
+"Lodi Tomb","Khan Market",Violet,1.4
+"Lotus Temple","Okhla Nsic",Magenta,0.7
+"Mehrauli Archaeological Park","Qutab Minar",Yellow,1.2
+"Mughal garden","Central Secretariat",Yellow-Violet,0.9
+"National Gallery of Modern Art","Khan Market",Violet,1.8
+"National Museum","Udyog Bhawan",Yellow,1
+"National Police Memorial","Udyog Bhawan",Yellow,2.1
+"National Rail Museum","Sir M. Vishweshwaraiah Moti Bagh",Pink,1.5
+"National Zoological Park","Supreme Court",Blue,2.8
+"Parliament House","Central Secretariat",Yellow-Violet,0.3
+"Purana Quila","Supreme Court",Blue,2.3
+"Qutub Minar","Qutab Minar",Yellow,1.7
+Rajghat,"Delhi Gate",Violet,1
+"Rashtrapati Bhawan","Central Secretariat",Yellow-Violet,0.9

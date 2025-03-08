@@ -1,0 +1,27 @@
+Name,ClosestStation,LineOfClosestStation,DistanceFromClosestStation
+"Anand Vihar Railway Station","Anand Vihar ISBT",Pink-Blue,0.4
+"Badli Railway Station","Samaypur Badli",Yellow,0.3
+"Bahadurgarh Railway Station","Bahadurgarh City",Green,1.6
+"Delhi Junction","Chandni Chowk",Yellow,0
+"Ghaziabad Junction Railway Station","Shaheed Sthal",Red,2.6
+"Hazrat Nizamuddin",Sarai,Pink,0.65
+"Indira Gandhi International Airport Terminal 1","Terminal 1 - IGI Airport",Magenta,0.6
+"Indira Gandhi International Airport Terminal 2","Airport (T-3)","Airport Express",1.2
+"Indira Gandhi International Airport Terminal 3","Airport (T-3)","Airport Express",0.028
+"Maharana Pratap Inter State Bus Terminus","Kashmere Gate",Red-Violet-Yellow,0.052
+"New Delhi Railway Station","New Delhi","Yellow-Airport Express",0.65
+"New Town Faridabad Railway Station","Bata Chowk",Violet,1.1
+"Okhla Railway Station","Okhla NSIC",Magenta,1
+"Old Faridabad Railway Station","Faridabad Old",Violet,1.2
+"Patel Nagar Railway Station",Shadipur,Blue,1
+"Sadar Bazar Railway Station","Tis Hazari",Red,1.7
+"Safdarjung Airport","Jor Bagh",Yellow,0.28
+"Sarai Rohilla Railway Station","Shastri Nagar",Red,1.1
+"Shahdara Railway Station",Shahdara,Red,0.1
+"Shakur Basti Railway Station","Shivaji Park",Green,1.2
+"Shivaji Bridge Railway Station","Barakhamba Road",Blue,0.65
+"Subzi Mandi Railway Station","Pratap Nagar",Red,0.4
+"Swami Vivekanand Inter State Bus Terminus","Anand Vihar ISBT",Blue-Pink,0.45
+"Tilak Bridge Railway Station",ITO,Violet,0.6
+"Tughlakabad Railway Station",Tughlakabad,Violet,0.85
+"Veer Hakikat Rai Inter State Bus Terminus",Sarai,Pink,0.85
